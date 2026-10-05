@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026/10/02 09:54:46.313,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/02 09:55:49.213,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026/10/02 20:07:19.483,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2026/10/02 20:07:47.900,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2026/10/02 20:08:59.205,C:\Projetos\Testes\Teste_Embalsoft\View.Principal.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/02 20:08:59.205,C:\Projetos\Testes\Teste_Embalsoft\View.Principal.dfm=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/10/02 20:09:12.253,C:\Projetos\Testes\Teste_Embalsoft\Model.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2026/10/02 20:09:21.947,C:\Projetos\Testes\Teste_Embalsoft\Controller.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2026/10/02 20:09:33.577,C:\Projetos\Testes\Teste_Embalsoft\DataModule1.dfm=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2026/10/02 20:09:33.577,C:\Projetos\Testes\Teste_Embalsoft\DataModule1.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2026/10/02 20:14:44.175,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/02 20:16:50.148,C:\Projetos\Testes\Teste_Embalsoft\Models.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/02 20:16:54.998,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 10:58:28.050,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 10:59:13.191,C:\Projetos\Testes\Teste_Embalsoft\Utils.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 11:43:41.523,C:\Projetos\Testes\Teste_Embalsoft\View.Principal.pas=</Transaction>
+    <Transaction>2026/10/03 11:43:48.475,C:\Projetos\Testes\Teste_Embalsoft\Model.pas=</Transaction>
+    <Transaction>2026/10/03 11:58:19.512,=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 16:45:00.450,C:\Projetos\Testes\Teste_Embalsoft\View.Principal.dfm=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2026/10/03 16:45:00.450,C:\Projetos\Testes\Teste_Embalsoft\View.Principal.pas=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 16:48:54.248,C:\Projetos\Testes\Teste_Embalsoft\Teste_Embalsoft.dproj=C:\Users\derso\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/10/03 18:54:00.623,=C:\Projetos\Testes\Teste_Embalsoft\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 19:07:55.565,C:\Projetos\Testes\Teste_Embalsoft\View.Geral.Clientes.pas=C:\Projetos\Testes\Teste_Embalsoft\Unit1.pas</Transaction>
+    <Transaction>2026/10/03 19:07:55.565,C:\Projetos\Testes\Teste_Embalsoft\View.Geral.Clientes.dfm=C:\Projetos\Testes\Teste_Embalsoft\Unit1.dfm</Transaction>
+    <Transaction>2026/10/04 22:37:31.976,=C:\Projetos\Testes\Teste_Embalsoft\Unit1.pas</Transaction>
+    <Transaction>2026/10/04 22:47:46.621,C:\Projetos\Testes\Teste_Embalsoft\View.Cadastro.Clientes.pas=C:\Projetos\Testes\Teste_Embalsoft\Unit1.pas</Transaction>
+    <Transaction>2026/10/04 22:47:46.621,C:\Projetos\Testes\Teste_Embalsoft\View.Cadastro.Clientes.dfm=C:\Projetos\Testes\Teste_Embalsoft\Unit1.dfm</Transaction>
+    <Transaction>2026/10/05 12:35:03.490,=C:\Projetos\Testes\Teste_Embalsoft\Unit1.pas</Transaction>
+    <Transaction>2026/10/05 12:42:22.914,C:\Projetos\Testes\Teste_Embalsoft\View.Cadastro.Contatos.pas=C:\Projetos\Testes\Teste_Embalsoft\Unit1.pas</Transaction>
+    <Transaction>2026/10/05 12:42:22.914,C:\Projetos\Testes\Teste_Embalsoft\View.Cadastro.Contatos.dfm=C:\Projetos\Testes\Teste_Embalsoft\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
